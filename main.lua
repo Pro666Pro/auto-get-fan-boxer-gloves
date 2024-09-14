@@ -31,5 +31,3 @@ game:GetService("StarterGui"):SetCore("SendNotification",{Title = "teleporting",
 wait(1)
 game:GetService("TeleportService"):Teleport(6403373529)
 end
-else
-game:GetService("TeleportService"):Teleport(7234087065)
